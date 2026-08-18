@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login / New Member | Sonoma County Floorball Club</title>
+  <meta name="description" content="Log in or create a Sonoma County Floorball Club membership account.">
+  <link rel="icon" href="images/logo.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Great+Vibes&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="stripe-bar" aria-hidden="true"></div>
+    <nav class="nav" aria-label="Primary">
+      <a class="nav-brand" href="index.html">
+        <img src="images/logo.png" width="56" height="56" alt="Sonoma County Floorball Club circular logo with gold bear">
+        <span class="nav-brand-text">
+          <span class="nav-brand-top">Sonoma County</span>
+          <span class="nav-brand-script">Floorball Club</span>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+      </button>
+      <div class="nav-panel" id="nav-menu">
+        <ul class="nav-links">
+          <li><a href="adult-league.html">Adult League</a></li>
+          <li><a href="kids-league.html">Kids League</a></li>
+          <li><a href="tournaments.html">Tournaments</a></li>
+          <li><a href="schedules.html">Schedules</a></li>
+          <li><a href="pictures.html">Pictures</a></li>
+        </ul>
+        <a class="btn btn-gold nav-cta" href="login.html">Login / New Member</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="page-hero">
+      <div class="container">
+        <p class="hero-kicker">Members</p>
+        <h1>Login / New Member <span class="hero-script">Join the roster</span></h1>
+        <p>Placeholder forms — nothing is stored yet. Wire these up to a membership tool when you are ready.</p>
+      </div>
+    </section>
+
+    <section class="section section--cream">
+      <div class="container">
+        <div class="auth-wrap">
+          <div class="auth-tabs" role="tablist">
+            <button class="auth-tab is-active" type="button" data-auth-tab="login-form">Log in</button>
+            <button class="auth-tab" type="button" data-auth-tab="join-form">New member</button>
+          </div>
+
+          <form class="auth-form is-active" id="login-form" action="#" method="post">
+            <div class="form-field">
+              <label for="login-email">Email</label>
+              <input id="login-email" name="email" type="email" autocomplete="email" required>
+            </div>
+            <div class="form-field">
+              <label for="login-password">Password</label>
+              <input id="login-password" name="password" type="password" autocomplete="current-password" required>
+            </div>
+            <button class="btn btn-gold" type="submit">Log in</button>
+            <p class="form-note">This is a placeholder page. Submitting shows a message only.</p>
+            <div class="form-message" tabindex="-1">Membership portal is not connected yet. Email info@sonomafloorball.org and we will get you on the list.</div>
+          </form>
+
+          <form class="auth-form" id="join-form" action="#" method="post">
+            <div class="form-field">
+              <label for="join-name">Full name</label>
+              <input id="join-name" name="name" type="text" autocomplete="name" required>
+            </div>
+            <div class="form-field">
+              <label for="join-email">Email</label>
+              <input id="join-email" name="email" type="email" autocomplete="email" required>
+            </div>
+            <div class="form-field">
+              <label for="join-program">Program</label>
+              <select id="join-program" name="program" required>
+                <option value="">Choose one</option>
+                <option>Adult League</option>
+                <option>Kids League</option>
+                <option>Tournament team</option>
+                <option>Not sure yet</option>
+              </select>
+            </div>
+            <div class="form-field">
+              <label for="join-notes">Notes</label>
+              <textarea id="join-notes" name="notes" rows="3" placeholder="Jersey size, kids’ ages, questions…"></textarea>
+            </div>
+            <button class="btn btn-gold" type="submit">Create account</button>
+            <p class="form-note">Placeholder only — we will not create a real account from this form yet.</p>
+            <div class="form-message" tabindex="-1">Thanks — this demo form does not save data. Email info@sonomafloorball.org to join for real.</div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="stripe-bar" aria-hidden="true"></div>
+    <div class="container footer-main">
+      <div class="footer-brand">
+        <img src="images/logo.png" width="72" height="72" alt="Sonoma County Floorball Club logo">
+        <div>
+          <h2>Sonoma County</h2>
+          <div class="footer-script">Floorball Club</div>
+          <p style="margin: 0.6rem 0 0;">Indoor floorball for adults and kids across Sonoma County, California. Est. 2023.</p>
+        </div>
+      </div>
+      <div>
+        <h3>Visit</h3>
+        <p>Sonoma County, CA<br>Gyms in Santa Rosa, Petaluma,<br>Windsor &amp; Rohnert Park</p>
+        <p><a href="mailto:info@sonomafloorball.org">info@sonomafloorball.org</a></p>
+      </div>
+      <div>
+        <h3>Links</h3>
+        <ul class="footer-links">
+          <li><a href="adult-league.html">Adult League</a></li>
+          <li><a href="kids-league.html">Kids League</a></li>
+          <li><a href="tournaments.html">Tournaments</a></li>
+          <li><a href="login.html">Login / New Member</a></li>
+        </ul>
+        <div class="social-links" aria-label="Social media">
+          <a href="#" aria-label="Instagram">IG</a>
+          <a href="#" aria-label="Facebook">FB</a>
+          <a href="#" aria-label="YouTube">YT</a>
+        </div>
+      </div>
+    </div>
+    <div class="container footer-copy">
+      <span>&copy; <span data-year>2026</span> Sonoma County Floorball Club</span>
+      <span>Sonoma County, California</span>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: adult league game">
+  <rect width="800" height="560" fill="#3d1820"/>
+  <rect x="80" y="60" width="640" height="380" rx="8" fill="#7B2D3B"/>
+  <rect x="110" y="90" width="580" height="320" rx="4" fill="#5c212c"/>
+  <ellipse cx="400" cy="250" rx="180" ry="110" fill="none" stroke="#D4A72C" stroke-width="4"/>
+  <line x1="400" y1="90" x2="400" y2="410" stroke="#F5EFE0" stroke-width="2" opacity="0.5"/>
+  <rect x="110" y="200" width="40" height="100" fill="none" stroke="#F5EFE0" stroke-width="3"/>
+  <rect x="650" y="200" width="40" height="100" fill="none" stroke="#F5EFE0" stroke-width="3"/>
+  <circle cx="460" cy="270" r="14" fill="#F5EFE0"/>
+  <circle cx="460" cy="270" r="10" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
+  <path d="M300 300 L360 250 L430 260" fill="none" stroke="#D4A72C" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="300" cy="300" r="10" fill="#1A1A1A"/>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Adult League Night</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-1.svg</text>
+</svg>

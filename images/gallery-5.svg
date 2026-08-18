@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: team huddle">
+  <rect width="800" height="560" fill="#7B2D3B"/>
+  <circle cx="250" cy="280" r="70" fill="#5c212c"/>
+  <circle cx="400" cy="240" r="80" fill="#D4A72C"/>
+  <circle cx="550" cy="280" r="70" fill="#5c212c"/>
+  <circle cx="320" cy="340" r="62" fill="#4a1a24"/>
+  <circle cx="480" cy="340" r="62" fill="#4a1a24"/>
+  <circle cx="400" cy="175" r="36" fill="#F5EFE0"/>
+  <circle cx="250" cy="220" r="30" fill="#F5EFE0"/>
+  <circle cx="550" cy="220" r="30" fill="#F5EFE0"/>
+  <circle cx="320" cy="290" r="26" fill="#F5EFE0"/>
+  <circle cx="480" cy="290" r="26" fill="#F5EFE0"/>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Team Huddle</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-5.svg</text>
+</svg>

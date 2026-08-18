@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: after the final whistle">
+  <rect width="800" height="560" fill="#7B2D3B"/>
+  <rect x="80" y="70" width="640" height="340" rx="12" fill="#F5EFE0"/>
+  <rect x="110" y="100" width="280" height="180" fill="#D4A72C"/>
+  <rect x="410" y="100" width="280" height="180" fill="#5c212c"/>
+  <text x="250" y="205" text-anchor="middle" fill="#7B2D3B" font-family="Georgia, serif" font-size="42" font-weight="bold">4</text>
+  <text x="550" y="205" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="42" font-weight="bold">3</text>
+  <text x="400" y="340" text-anchor="middle" fill="#1A1A1A" font-family="Georgia, serif" font-size="22">Final</text>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">After the Final Whistle</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-8.svg</text>
+</svg>

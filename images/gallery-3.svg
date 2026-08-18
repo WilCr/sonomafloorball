@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: tournament weekend">
+  <rect width="800" height="560" fill="#1A1A1A"/>
+  <polygon points="0,460 0,200 180,120 400,180 620,90 800,160 800,460" fill="#7B2D3B"/>
+  <polygon points="0,460 0,280 220,210 400,260 640,180 800,240 800,460" fill="#5c212c"/>
+  <rect x="340" y="140" width="120" height="180" fill="#D4A72C"/>
+  <polygon points="340,140 400,80 460,140" fill="#F5EFE0"/>
+  <text x="400" y="250" text-anchor="middle" fill="#7B2D3B" font-family="Georgia, serif" font-size="18" font-weight="bold">CUP</text>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Tournament Weekend</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-3.svg</text>
+</svg>

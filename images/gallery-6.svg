@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: goal celebration">
+  <rect width="800" height="560" fill="#1A1A1A"/>
+  <rect x="200" y="80" width="400" height="320" fill="none" stroke="#F5EFE0" stroke-width="14"/>
+  <line x1="200" y1="80" x2="200" y2="460" stroke="#F5EFE0" stroke-width="10"/>
+  <line x1="600" y1="80" x2="600" y2="460" stroke="#F5EFE0" stroke-width="10"/>
+  <path d="M200 80 L200 400 M240 80 L240 400 M280 80 L280 400 M320 80 L320 400 M360 80 L360 400 M400 80 L400 400 M440 80 L440 400 M480 80 L480 400 M520 80 L520 400 M560 80 L560 400" stroke="#F5EFE0" stroke-width="2" opacity="0.35"/>
+  <circle cx="430" cy="360" r="22" fill="#F5EFE0" stroke="#D4A72C" stroke-width="4"/>
+  <rect x="0" y="460" width="800" height="100" fill="#7B2D3B"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Goal!</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-6.svg</text>
+</svg>

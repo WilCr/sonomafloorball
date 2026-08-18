@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: skills and stickhandling">
+  <rect width="800" height="560" fill="#F5EFE0"/>
+  <rect x="0" y="0" width="800" height="460" fill="#ebe3d0"/>
+  <line x1="120" y1="80" x2="680" y2="380" stroke="#7B2D3B" stroke-width="16" stroke-linecap="round"/>
+  <rect x="640" y="350" width="90" height="18" rx="6" fill="#1A1A1A" transform="rotate(-28 680 360)"/>
+  <circle cx="220" cy="300" r="28" fill="#F5EFE0" stroke="#1A1A1A" stroke-width="3"/>
+  <circle cx="220" cy="300" r="8" fill="#7B2D3B"/>
+  <circle cx="360" cy="180" r="16" fill="#D4A72C"/>
+  <circle cx="520" cy="240" r="16" fill="#D4A72C" opacity="0.5"/>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Stickhandling Clinic</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-4.svg</text>
+</svg>

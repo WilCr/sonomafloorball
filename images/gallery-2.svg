@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder photo: kids league practice">
+  <rect width="800" height="560" fill="#2a3d32"/>
+  <rect x="0" y="0" width="800" height="460" fill="#4a6b52"/>
+  <rect x="60" y="80" width="680" height="320" fill="#3d5a44"/>
+  <circle cx="220" cy="280" r="36" fill="#7B2D3B"/>
+  <circle cx="400" cy="240" r="40" fill="#D4A72C"/>
+  <circle cx="580" cy="290" r="34" fill="#7B2D3B"/>
+  <circle cx="220" cy="248" r="22" fill="#F5EFE0"/>
+  <circle cx="400" cy="206" r="24" fill="#F5EFE0"/>
+  <circle cx="580" cy="258" r="20" fill="#F5EFE0"/>
+  <circle cx="480" cy="340" r="12" fill="#F5EFE0" stroke="#1A1A1A"/>
+  <rect x="0" y="460" width="800" height="100" fill="#1A1A1A"/>
+  <text x="400" y="508" text-anchor="middle" fill="#F5EFE0" font-family="Georgia, serif" font-size="26">Kids League Practice</text>
+  <text x="400" y="536" text-anchor="middle" fill="#D4A72C" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">PLACEHOLDER  replace images/gallery-2.svg</text>
+</svg>
