@@ -48,4 +48,4 @@ Thanks for helping improve the site! Here's how to make changes.
 
 ## Questions?
 
-Contact [info@sonomafloorball.org](mailto:info@sonomafloorball.org) with any questions.
+Contact [socofloorball@gmail.com](mailto:socofloorball@gmail.com) with any questions.
