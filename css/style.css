@@ -420,7 +420,7 @@ body.nav-open {
 }
 
 .hero-badge img {
-  width: min(280px, 70vw);
+  width: min(390px, 100%);
   height: auto;
   filter: drop-shadow(0 16px 28px rgba(0, 0, 0, 0.35));
 }
@@ -788,8 +788,8 @@ body.nav-open {
 }
 
 .footer-brand img {
-  width: 72px;
-  height: 72px;
+  width: calc(72px + 0.5in);
+  height: calc(72px + 0.5in);
   border-radius: 50%;
   border: 2px solid var(--gold);
 }
